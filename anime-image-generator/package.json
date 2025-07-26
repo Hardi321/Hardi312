@@ -1,0 +1,25 @@
+{
+  "name": "anime-image-generator",
+  "version": "1.0.0",
+  "description": "A static website that generates HD anime images.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "live-server public",
+    "build": "echo 'Build step can be added here.'"
+  },
+  "keywords": [
+    "anime",
+    "images",
+    "generator",
+    "static",
+    "website"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
